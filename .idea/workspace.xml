@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c23149-ee5c-4c82-8277-9997f1b87d9b" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="" afterPath="$PROJECT_DIR$/src/Bubble_Search.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change beforePath="$PROJECT_DIR$/123.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ABC.txt" afterPath="" />
+>>>>>>> parent of 6d6e2fc... Update workspace.xml
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
